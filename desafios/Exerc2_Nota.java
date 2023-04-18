@@ -1,4 +1,4 @@
-package br.com.dio.exercicios.loops;
+package desafios;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ Mostre uma mensagem caso o valor seja inválido
 e continue pedindo
 até que o usuário informe um valor válido.
 */
-public class Ex2_Nota {
+public class Exerc2_Nota {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
