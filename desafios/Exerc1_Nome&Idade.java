@@ -23,7 +23,7 @@ public class Ex1_NomeEIdade {
             idade = scan.nextInt();
         }
 
-        System.out.println("Retorna aqui...");
+        System.out.println("Prossegue para cá...");
 
     }
 
